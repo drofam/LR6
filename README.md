@@ -34,39 +34,38 @@ git push origin report
 Клонировать свой личный удалённый репозиторий на компьютер
 
 Добавление файла через интерфейс GitHub. Подтягивание изменения в локальный репозиторий
-![Image alt](screens/1.png)
+![Image alt](screens/1.jpg)
 
 
 
 Получение истории операций для каждой из веток. 
-![Image alt](screens/2.png)
-![Image alt](screens/2,2.png)
+![Image alt](screens/2.jpg)
+![Image alt](screens/2,2.jpg)
 
 Просмотреть последние изменения. 
-![Image alt](screens/3.png)
+![Image alt](screens/3.jpg)
 Слияние branch1 в ветку master, разрешив конфликт.
 
-![Image alt](screens/4.png)
+![Image alt](screens/4.jpg)
 
 Удаление побочной ветки после успешного слияния.
 
-![Image alt](screens/5.png)
+![Image alt](screens/5.jpg)
 
 Создание изменений 
 
-![Image alt](screens/6.png)
+![Image alt](screens/6.jpg)
 
 Откат коммита. 
 
-![Image alt](screens/7.png)
+![Image alt](screens/7.jpg)
 
 Создание ветки для отчёта. 
 
-![Image alt](screens/8.png)
+![Image alt](screens/8.jpg)
 
 Историю операций в форматированном виде 
 
-![Image alt](screan/final.png)
 
 Отправление локальнх изменений в сетевое хранилище GitHub c помощью команды git push
 
