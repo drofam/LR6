@@ -43,7 +43,9 @@ git push origin report
 ![Image alt](screens/2,2.jpg)
 
 Просмотреть последние изменения. 
+
 ![Image alt](screens/3.jpg)
+
 Слияние branch1 в ветку master, разрешив конфликт.
 
 ![Image alt](screens/4.jpg)
