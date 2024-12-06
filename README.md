@@ -66,6 +66,7 @@ git push origin report
 
 Историю операций в форматированном виде 
 
+![Image alt](screens/9.jpg)
 
 Отправление локальнх изменений в сетевое хранилище GitHub c помощью команды git push
 
