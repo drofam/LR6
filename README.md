@@ -4,28 +4,20 @@
 ### Цель 
 Изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 
-### Используемые команды
-git clone
+# Лог команд
 
-git pull
-
-git log 
-
-git merge 
-
-git status
-
-git add .
-
-git commit -m "Name"
-
-git branch -d branch1
-
-git reset --hard HEAD^
-
-git checkout 
-
-git push origin report
+* git clone <>
+* cd <>
+* git add .
+* git commit -m ""
+* git checkout -b 
+* git checkout 
+* git log
+* git diff
+* git checkout master
+* git merge 
+* git mergetool
+* git branch -d 
 
 
 ### Ход работы
